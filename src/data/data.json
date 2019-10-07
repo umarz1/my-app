@@ -1,0 +1,23 @@
+{
+    "firstName": "Umar",
+    "lastName": "Zahir",
+    "dateOfBirth": "1993-09-05T14:56:29.000Z",
+    "occupation": "Software Engineer",
+    "activities": [
+        {
+            "description": "Rent",
+            "cost": "45",
+            "date": "2018-12-22T14:56:29.000Z"
+        },
+        {
+            "description": "Cinema",
+            "cost": "20",
+            "date": "2018-12-20T14:56:29.000Z"
+        },
+        {
+            "description": "Food",
+            "cost": "20",
+            "date": "2018-12-22T14:56:29.000Z"
+        }
+    ]
+}
