@@ -1,13 +1,9 @@
 import React, {
-  Component
 } from "react";
-import Button from "react-bootstrap/Button";
-import Table from 'react-bootstrap/Table'
 import Card from 'react-bootstrap/Card'
 import Container from 'react-bootstrap/Container'
 import Row from 'react-bootstrap/Row'
 import Col from 'react-bootstrap/Col'
-//import data from "./data/data"
 
 
 const Projects = () => {
@@ -35,7 +31,7 @@ As part of my Level 4 Software Developer Apprenticeship, there was an end point 
                   <br>
                   </br>
 
-                  <a href="https://github.com/umarz1/CardMembershipSystem" target="_blank"><strong>GitHub</strong></a>
+                  <a href="https://github.com/umarz1/CardMembershipSystem" target="_blank" rel="noopener noreferrer"><strong>GitHub</strong></a>
 
                 </div>
               </Col>

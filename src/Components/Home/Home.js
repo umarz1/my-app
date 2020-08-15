@@ -1,12 +1,9 @@
 import React from "react";
 import Container from 'react-bootstrap/Container'
 import Card from 'react-bootstrap/Card'
-import Image from 'react-bootstrap/Image'
 import Accordion from 'react-bootstrap/Accordion'
 import Col from 'react-bootstrap/Col'
 import Row from 'react-bootstrap/Row'
-import ProfilePic from "../../Images/muz.jpg"
-
 const Home = () => {
     return (
 
@@ -24,7 +21,7 @@ const Home = () => {
                                         </br>
                                         <br>
                                         </br>
-                                        <a href="https://www.linkedin.com/in/umar-zahir-a04801106/" target="_blank">LinkedIn</a>
+                                        <a href="https://www.linkedin.com/in/umar-zahir-a04801106/" target="_blank" rel="noopener noreferrer"> LinkedIn</a>
 
                                     </strong>
                                     <br>
